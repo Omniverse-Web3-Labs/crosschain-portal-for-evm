@@ -1,0 +1,38 @@
+{
+	"FUJI": {
+		"nodeAddress": "https://api.avax-test.network/ext/bc/C/rpc",
+		"porters": [
+			"0x0178F13c60B391A3A79da6765e052897ee93AC17"
+		],
+		"request": 1,
+		"crossChainContractAddress": "0x8177cBe1c9a0B08B536C55097b569dfaEc5cb520",
+		"chainId": 43113
+	},
+	"BSCTEST": {
+		"nodeAddress": "https://data-seed-prebsc-1-s1.binance.org:8545",
+		"porters": [
+			"0x30ad2981E83615001fe698b6fBa1bbCb52C19Dfa"
+		],
+		"request": 1,
+		"crossChainContractAddress": "0x5950b420377Ac8128485D54307762FC952e14CD4",
+		"chainId": 97
+	},
+	"RINKEBY": {
+		"nodeAddress": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+		"porters": [
+			"0x30ad2981E83615001fe698b6fBa1bbCb52C19Dfa"
+		],
+		"request": 1,
+		"crossChainContractAddress": "0x359d5510405093f7Ea15408a0A3F52c52730A77e",
+		"chainId": 4
+	},
+	"MOONBASEALPHA": {
+		"nodeAddress": "https://rpc.api.moonbase.moonbeam.network",
+		"porters": [
+			"0x0178F13c60B391A3A79da6765e052897ee93AC17"
+		],
+		"request": 1,
+		"crossChainContractAddress": "0x197D00ff70372A48c10cAe8205680c9a9f5F8370",
+		"chainId": 1287
+	}
+}
