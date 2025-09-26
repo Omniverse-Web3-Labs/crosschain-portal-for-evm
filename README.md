@@ -1,9 +1,9 @@
-# crosschain portal for evm
+# cross-chain portal for evm
 Smart contracts that provide some of the basic functions of the cross chain service.
 
 ## Version : 0.1
 
-This repository contains examples of contracts that are useful when deploying, managing, and/or using a crosschain network. They are provided for reference purposes:
+This repository contains examples of contracts that are useful when deploying, managing, and/or using a cross-chain network. They are provided for reference purposes:
 
    * [cross_chain](./contracts)
    * [locker](./contracts/Locker.sol)

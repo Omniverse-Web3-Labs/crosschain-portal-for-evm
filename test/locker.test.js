@@ -30,7 +30,7 @@
 //             eq(token, FeeToken.address);
 //         });
 
-//         it('should have crosschain contract set', async () => {
+//         it('should have cross-chain contract set', async () => {
 //             let locker = await Locker.deployed();
 //             let crossChain = await locker.crossChainContract()
 //             eq(crossChain, CrossChain.address);
